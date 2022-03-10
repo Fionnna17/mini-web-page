@@ -7,5 +7,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:dominic-soh/mini-web-page master:gh-pages
+git push -f git@github.com:Fionnna17/mini-web-page master:gh-pages
 cd -
